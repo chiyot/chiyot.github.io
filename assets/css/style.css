@@ -1,0 +1,14 @@
+// change font
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+}
+
+// set border
+.sidebar {
+  border-radius: 20px;
+}
+
+// set shadow
+.card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
